@@ -11,15 +11,6 @@ Our research paper titled "[Image Forgery Detection and Classification Using Dee
 
 The [FIDAC dataset](https://ieee-dataport.org/documents/fidac-forged-images-detection-and-classification) is available on IEEE Dataport and contains original camera-clicked images along with their tampered versions. The dataset was used to train and test our proposed CNN model and compare it with other pre-defined models on various datasets combinations.
 
-
-
-## Pre-trained Models
-
-We provide links to download our pre-trained models for image & video forgery detection and classification:
-
-- [Image Model weigths](https://drive.google.com/drive/folders/1B4ODeK_QQ6XMFo6i6EEup1nZC6PllVfu?usp=sharing)
-- [Video Model weigths](https://drive.google.com/drive/folders/1irYZbRnr4Y7jKieSyhjxHxwk43oSMqh-?usp=sharing)
-
 ## Running the Web Application
 
 To run the web application on Windows, Linux, or Mac, follow these steps:
