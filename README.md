@@ -1,10 +1,4 @@
-<!-- Adding a GIF after main title -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/text.gif">
-</p>
-
-<h1 align="center">IFAKE - Image/Video Forgery Detection Application</h1>
-
+ 
 This repository contains two main folders:
 
 1. **IFAKE_AI** - This folder contains the AI Jupyter notebook files used to create the proposed CNN model for forgery detection and classification. The notebook files demonstrate the process of training and testing the model on the FIDAC & CASIA dataset.
@@ -47,26 +41,14 @@ To run the web application on Windows, Linux, or Mac, follow these steps:
 
 6. Open a web browser and go to http://127.0.0.1:8000/ to access the web application.
 
-## Screenshots
-<img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/index.JPG" alt="Image description" width="60%">
-<img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/imageDetection1.png" alt="Image description" width="60%">
-<img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/imageDetection2.png" alt="Image description" width="60%">
-<img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/metadata.JPG" alt="Image description" width="60%">
-<img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/videoDetection.png" alt="Image description" width="60%">
-<img src="https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/pdfDetection.png" alt="Image description" width="60%">
-
-
-
-
-The screenshots show different features of our web application, including the image and video forgery detection functionality, and the ability to upload and view results of detected forgeries.
+ screenshots/pdfDetection.png" alt="Image description" width="60%">
 
 ## Contributors
-- Shraddha Pawar
-- Gaurangi Pradhan
-- Bhavin Goswami
+- Atul Ubale
+- Sarthak Mathpati
+- Pratibha Markad
+   
 
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
